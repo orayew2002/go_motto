@@ -6,6 +6,7 @@ This is a Go project that includes a simple CLI application. The main entry poin
 
 - Go 1.20 or higher
 - Internet access to download Go modules
+- User postman collection  (doc/api)
 
 ## 🚀 Getting Started
 
