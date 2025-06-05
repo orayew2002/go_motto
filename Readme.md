@@ -9,10 +9,12 @@ This is a Go project that includes a simple CLI application. The main entry poin
 
 ## 🚀 Getting Started
 
-### For running 
+### ▶️ Run the Application
 ```bash
-make run ```
+make run
+```
 
-### For testing 
+### 🧪 Run Tests
 ```bash
 make test
+```
