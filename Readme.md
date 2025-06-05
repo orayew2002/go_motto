@@ -11,4 +11,8 @@ This is a Go project that includes a simple CLI application. The main entry poin
 
 ### For running 
 ```bash
-make run
+make run ```
+
+### For testing 
+```bash
+make test
